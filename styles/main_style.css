@@ -3,6 +3,17 @@ a {
     font-size: small;
 }
 
+h3 {
+    text-align-last: center;
+    font-size: xxx-large;
+}
+
+h4 {
+    text-align-last: center;
+    font-size: large;
+    color: #666666; 
+}
+
 #profil_name 
 {
     text-align-last: center;
@@ -41,7 +52,7 @@ a {
     margin-block-end: 0.83em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-    margin: 0 0 20px;
+    margin: 0 0 50px;
     line-height: 2.5;
     font-size: medium;
     color: #999999;

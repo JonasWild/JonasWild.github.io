@@ -1,0 +1,1 @@
+[Download Resume as Pdf](/pdf/Resume.pdf)
