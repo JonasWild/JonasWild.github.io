@@ -1,5 +1,4 @@
-<h3> Bachelor </h3> 
-<h4> Visualization of Reinforcement Learning Methods and Artificial Neural Networks </h4>
+<h3> Bachelor: Visualization of RL with ANNs</h3> 
 
 **Project description:** Visualization environment for Deep Reinforcement Learning with Aritifical Neural networks. The environment allows parallel learning and evaluation of agents with visual insight into the parameters of the network. The visualization was realized using the Unity game engine. The basis for the deep learning is a self-made framework in C#.
 
