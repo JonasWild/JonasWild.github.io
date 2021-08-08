@@ -70,9 +70,10 @@
       ga('send', 'pageview');
     </script>
     <script>
+      var lastTabName = "Projects";
       function openTab(evt, tabName) {
-        //if (tabName != "Projects" || tabName != "Resume" || tabName != "Skills")
-          //return;
+        if (lastTabName == tabName)
+          return;
 
   // Declare all variables
   var i, tabcontent, tablinks;
