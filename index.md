@@ -2,11 +2,13 @@
 
 --- 
 
-[Vints](/Vints)
+<a class="project_links" href="/Vints">Vints</a>
+<br/>
 <img src="images/GooglePlayStoreBanner.png?raw=true"/>
-
 ---
-[Bachelor: Visualization Environment for Deep Reinforcement Learning](/Bachelor)
+
+<a class="project_links" href="/Bachelor">Bachelor: Visualization Environment for Deep Reinforcement Learning</a>
+<br/>
 <img src="images/Step2(1).png?raw=true"/>
 
 ---

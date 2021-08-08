@@ -2,7 +2,7 @@
 
 **Project description:** Visualization environment for Deep Reinforcement Learning with Aritifical Neural networks. The environment allows parallel learning and evaluation of agents with visual insight into the parameters of the network. The visualization was realized using the Unity game engine. The basis for the deep learning is a self-made framework in C#.
 
-[Project 2 Title](/pdf/Bachelorarbeit_Jonas_Wild.pdf)
+[Download this Work as Pdf](/pdf/Bachelorarbeit_Jonas_Wild.pdf)
 
 Trier University article about the work: https://www.hochschule-trier.de/informatik/news/beitrag-lesen/reinforcement-learning
 

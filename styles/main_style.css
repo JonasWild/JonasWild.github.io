@@ -1,5 +1,6 @@
 a {
-    color: #3377ff;  
+    color: #3377bb;
+    font-size: small;
 }
 
 #profil_name 
@@ -7,7 +8,13 @@ a {
     text-align-last: center;
 }
 
-.profil_links
+.project_links
+{
+    color: #666666;  
+    font-size: large;
+}
+
+#profil_links_container
 {
     text-align-last: center;
 }
