@@ -5,7 +5,6 @@
 Website: https://www.vints.ch
 
 <img src="images/GooglePlayStoreBanner.png?raw=true"/>
-<img src="images/VintsIcon-1024.png?raw=true"/>
 <img src="images/Vints1.jpeg?raw=true"/>
 <img src="images/Vints2.jpeg?raw=true"/>
 <img src="images/Vints3.jpeg?raw=true"/>

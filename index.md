@@ -2,11 +2,11 @@
 
 --- 
 
-[Project 1 Title](/Vints)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Vints](/Vints)
+<img src="images/GooglePlayStoreBanner.png?raw=true"/>
 
 ---
-[Project 2 Title](/Bachelor)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bachelor: Visualization Environment for Deep Reinforcement Learning](/Bachelor)
+<img src="images/Step2(1).png?raw=true"/>
 
 ---
