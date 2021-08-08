@@ -23,6 +23,7 @@ a {
 .tab {
     overflow: hidden;
     display: inline-flex;
+    width: 100%;
   }
   
   /* Style the buttons that are used to open the tab content */
