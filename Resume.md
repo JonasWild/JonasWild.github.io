@@ -4,13 +4,13 @@
 
 ---
 ### About
-Joseph Jonas Wild </br>
-10.06.1997 </br>
-Liebigstr. 10c </br>
-80538 München </br>
-Deutschland </br>
-+49 152 08871989 </br>
-jonas.wild2@hotmail.de </br>
+Joseph Jonas Wild <br></br>
+10.06.1997 <br></br>
+Liebigstr. 10c <br></br>
+80538 München <br></br>
+Deutschland <br></br>
++49 152 08871989 <br></br>
+jonas.wild2@hotmail.de <br></br>
 
 ---
 ### Education
