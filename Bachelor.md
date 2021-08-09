@@ -1,4 +1,10 @@
+
+---
+
+
 <h3> Bachelor: Visualization of RL with ANNs</h3> 
+
+---
 
 **Project description:** Visualization environment for Deep Reinforcement Learning with Aritifical Neural networks. The environment allows parallel learning and evaluation of agents with visual insight into the parameters of the network. The visualization was realized using the Unity game engine. The basis for the deep learning is a self-made framework in C#.
 
@@ -34,3 +40,5 @@ Rl is a collective of methods that can be used to train artificial neural networ
 <img src="images/Step4.png?raw=true"/>
 <img src="images/Step5.png?raw=true"/>
 <img src="images/Step6.png?raw=true"/>
+
+---

@@ -69,3 +69,11 @@ h3 {
   .tabcontent {
     display: none;
   }
+
+  td:first-child {
+    font-weight: bold;
+  }
+  
+  table {
+    width: 100%;
+  }
