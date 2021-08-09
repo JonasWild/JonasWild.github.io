@@ -46,13 +46,13 @@
           {{ content }}
         </div>
 
-        <div id="Resume" class="tabcontent">
+        <!-- <div id="Resume" class="tabcontent">
           <zero-md src="Resume.md"></zero-md>
         </div>
 
         <div id="Skills" class="tabcontent">
           <zero-md src="Skills.md"></zero-md>
-        </div>
+        </div> -->
 
       </section>
       <footer>
@@ -85,16 +85,14 @@
         }
           lastTabName = tabName;
 
-          location.href='/' + tabName;
-
   // Declare all variables
   var i, tabcontent, tablinks;
 
   // Get all elements with class="tabcontent" and hide them
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
+  // tabcontent = document.getElementsByClassName("tabcontent");
+  // for (i = 0; i < tabcontent.length; i++) {
+  //   tabcontent[i].style.display = "none";
+  // }
 
   // Get all elements with class="tablinks" and remove the class "active"
   tablinks = document.getElementsByClassName("tablinks");
@@ -103,14 +101,11 @@
   }
 
   // Show the current tab, and add an "active" class to the button that opened the tab
-  document.getElementById(tabName).style.display = "block";
+  // document.getElementById(tabName).style.display = "block";
   evt.currentTarget.className += " active";
+
+  location.href='/' + tabName;
 }
     </script>
-    <!-- Lightweight client-side loader that feature-detects and load polyfills only when necessary -->
-<script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
-
-<!-- Load the element definition -->
-<script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
   </body>
 </html>
