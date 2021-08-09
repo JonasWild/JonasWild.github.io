@@ -1,8 +1,10 @@
+
 ---
 
 [Download Resume as Pdf](/pdf/Resume.pdf)
 
 ---
+
 ### About
 Joseph Jonas Wild  
 10.06.1997  
@@ -38,7 +40,9 @@ jonas.wild2@hotmail.de
   </tr>
 </table>
 
+
 ---
+
 ### Languages
 <table>
   <tr>
