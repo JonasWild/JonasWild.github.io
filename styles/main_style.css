@@ -70,9 +70,9 @@ h3 {
     display: none;
   }
 
-  td:first-child {
+  /* td:first-child {
     font-weight: bold;
-  }
+  } */
   
   table {
     width: 100%;
