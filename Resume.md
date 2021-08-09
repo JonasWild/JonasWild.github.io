@@ -1,4 +1,4 @@
-<!-- ---
+---
 
 [Download Resume as Pdf](/pdf/Resume.pdf)
 
@@ -60,4 +60,4 @@ jonas.wild2@hotmail.de </br>
 ### Hobbys
 Bouldern, Skifahren, Volleyball, Tennis, Lesen
 
---- -->
+---
